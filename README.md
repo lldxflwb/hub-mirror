@@ -17,10 +17,6 @@
 
 [无法拉取 gcr.io 镜像？用魔法来打败魔法](https://mp.weixin.qq.com/s/Vt0FRTx1PsoYFdLa0QZzWw)
 
-更多云原生技术可关注微信公众号：【gopher云原生】
-
-<img src="https://user-images.githubusercontent.com/55381228/221747734-13783ce6-1969-4c10-acd6-833f5046aa85.png" width="300px">
-
 ## 开始使用
 
 #### 用法一：白嫖我的，点个 Star ，[直接提交 issues ](https://github.com/togettoyou/hub-mirror/issues/new/choose)，按照 issue 模板修改内容即可
